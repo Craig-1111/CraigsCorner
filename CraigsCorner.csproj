@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <BaseOutputPath></BaseOutputPath>
+  </PropertyGroup>
+	
+
+<ItemGroup>
+	<PackageReference Include="R2API.Networking" Version="*" />
+	<PackageReference Include="R2API.Items" Version="*" />
+	<PackageReference Include="R2API.Language" Version="*" />
+	<PackageReference Include="R2API.RecalculateStats" Version="*" />
+	<PackageReference Include="RiskOfRain2.GameLibs" Version="*-*" />
+	<PackageReference Include="BepInEx.Core" Version="5.4.21" />
+	<PackageReference Include="UnityEngine.Modules" Version="2019.4.26" />
+	<PackageReference Include="MMHOOK.RoR2" Version="*">
+		<!-- <NoWarn>NU1701</NoWarn> is used so that the IDE stops throwing up an error for having to use netstandard 2.0 for MMHOOK.RoR2 -->
+		<NoWarn>NU1701</NoWarn>
+	</PackageReference>
+</ItemGroup>
+	
+</Project>
+
+
+
+
+
+
