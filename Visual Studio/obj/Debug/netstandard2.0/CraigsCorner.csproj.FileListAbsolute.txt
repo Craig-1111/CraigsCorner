@@ -1,0 +1,11 @@
+C:\RoR2 Mods\CraigsCorner\Visual Studio\bin\Debug\netstandard2.0\CraigsCorner.deps.json
+C:\RoR2 Mods\CraigsCorner\Visual Studio\bin\Debug\netstandard2.0\CraigsCorner.dll
+C:\RoR2 Mods\CraigsCorner\Visual Studio\bin\Debug\netstandard2.0\CraigsCorner.pdb
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.csproj.AssemblyReference.cache
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.AssemblyInfoInputs.cache
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.AssemblyInfo.cs
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.csproj.CoreCompileInputs.cache
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.sourcelink.json
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.dll
+C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.pdb
