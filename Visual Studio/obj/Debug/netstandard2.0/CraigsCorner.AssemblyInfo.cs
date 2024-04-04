@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraigsCorner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e976590abdb915938bdb532517892a6e14c9aa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df8ea433806f6a82b73351bf4a4d3cf022cc748")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraigsCorner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraigsCorner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

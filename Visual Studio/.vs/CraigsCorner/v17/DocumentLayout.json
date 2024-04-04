@@ -1,12 +1,136 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\items\\tier1\\steeltoeboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:items\\tier1\\steeltoeboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\utils\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:utils\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\utils\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:utils\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\utils\\richtextformating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:utils\\richtextformating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|c:\\ror2 mods\\craigscorner\\visual studio\\craigscorner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F715EC04-1F49-4A47-9F78-35CF6C322468}|CraigsCorner.csproj|solutionrelative:craigscorner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SteelToeBoot.cs",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Items\\Tier1\\SteelToeBoot.cs",
+              "RelativeDocumentMoniker": "Items\\Tier1\\SteelToeBoot.cs",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Items\\Tier1\\SteelToeBoot.cs",
+              "RelativeToolTip": "Items\\Tier1\\SteelToeBoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:09:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\nuget.config",
+              "RelativeDocumentMoniker": "nuget.config",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\nuget.config",
+              "RelativeToolTip": "nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-04T16:58:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RichTextFormating.cs",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\RichTextFormating.cs",
+              "RelativeDocumentMoniker": "Utils\\RichTextFormating.cs",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\RichTextFormating.cs",
+              "RelativeToolTip": "Utils\\RichTextFormating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:19:29.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Utils\\ItemBase.cs",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\ItemBase.cs",
+              "RelativeToolTip": "Utils\\ItemBase.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:42:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\Log.cs",
+              "RelativeDocumentMoniker": "Utils\\Log.cs",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Utils\\Log.cs",
+              "RelativeToolTip": "Utils\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:09:21.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:04:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CraigsCorner",
+              "DocumentMoniker": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\CraigsCorner.csproj",
+              "RelativeDocumentMoniker": "CraigsCorner.csproj",
+              "ToolTip": "C:\\RoR2 Mods\\CraigsCorner\\Visual Studio\\CraigsCorner.csproj",
+              "RelativeToolTip": "CraigsCorner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T21:42:40.223Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

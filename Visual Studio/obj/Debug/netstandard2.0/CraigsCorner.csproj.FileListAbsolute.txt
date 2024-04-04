@@ -9,3 +9,6 @@ C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.cs
 C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.sourcelink.json
 C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.dll
 C:\RoR2 Mods\CraigsCorner\Visual Studio\obj\Debug\netstandard2.0\CraigsCorner.pdb
+C:\RoR2 Mods\CraigsCorner\Thunderstore\Debug\netstandard2.0\CraigsCorner.deps.json
+C:\RoR2 Mods\CraigsCorner\Thunderstore\Debug\netstandard2.0\CraigsCorner.dll
+C:\RoR2 Mods\CraigsCorner\Thunderstore\Debug\netstandard2.0\CraigsCorner.pdb
