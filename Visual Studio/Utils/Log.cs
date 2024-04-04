@@ -1,12 +1,12 @@
 ﻿using BepInEx.Logging;
 
-namespace CraigsCorner
+namespace CraigsCorner.Utils
 {
-    internal static class Log
+    public static class Log
     {
-        private static ManualLogSource _logSource;
+        public static ManualLogSource _logSource;
 
-        internal static void Init(ManualLogSource logSource)
+        public static void Init(ManualLogSource logSource)
         {
             _logSource = logSource;
         }

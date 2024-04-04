@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <BaseOutputPath></BaseOutputPath>
   </PropertyGroup>
 	
 
@@ -19,6 +18,11 @@
 		<NoWarn>NU1701</NoWarn>
 	</PackageReference>
 </ItemGroup>
+	
+
+<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+  <Exec Command="copy &quot;$(TargetPath)&quot; &quot;$(ProjectDir)..\Thunderstore\CraigsCorner.dll&quot;&#xD;&#xA;copy &quot;$(TargetPath)&quot; &quot;C:\Users\carso\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\TestingCraigsCorner\BepInEx\plugins\CraigsCorner - WIP&quot;" />
+</Target>
 	
 </Project>
 
