@@ -60,11 +60,11 @@ namespace CraigsCorner.Items.Tier1
 
         public override void Hooks()
         {
-            GetStatCoefficients += Speed_Calc;
-            On.RoR2.HealthComponent.TakeDamage += Damage_Calc;
+            GetStatCoefficients += Movement_Speed_Calc;
+            On.RoR2.HealthComponent.TakeDamage += Damage_Reduction_Calc;
         }
 
-        private void Damage_Calc(On.RoR2.HealthComponent.orig_TakeDamage orig, HealthComponent self, DamageInfo damageInfo)
+        private void Damage_Reduction_Calc(On.RoR2.HealthComponent.orig_TakeDamage orig, HealthComponent self, DamageInfo damageInfo)
         {
             if (damageInfo == null || damageInfo.rejected) return;
 
@@ -85,7 +85,7 @@ namespace CraigsCorner.Items.Tier1
             orig(self, damageInfo);
         }
 
-        private void Speed_Calc(CharacterBody sender, StatHookEventArgs args)
+        private void Movement_Speed_Calc(CharacterBody sender, StatHookEventArgs args)
         {
             if (sender == null || sender.inventory == null) { return; }
 

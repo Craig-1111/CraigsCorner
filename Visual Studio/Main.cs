@@ -46,10 +46,10 @@ namespace CraigsCorner
             // Loads our Asset Bundle from the Asset Folder in the thunderstore package. NOT A FOLDER??? WHY NO FOLDER WORK?????????
             MainAssets = AssetBundle.LoadFromFile(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(PluginInfo.Location), "craigscorner_assets"));
 
-            ItemInitializer();
+            Item_Initializer();
         }
 
-        private void ItemInitializer()
+        private void Item_Initializer()
         {
             EnableItems = Config.Bind<bool>(
             "Main", // The heading our setting is going to appear under
@@ -62,10 +62,15 @@ namespace CraigsCorner
             {
                 // Instantiate SteelToeBoot --> WTF???? THATS NOT EVEN A FUCKING WORD???????????????
                 SteelToeBoot steelToeBoot = new SteelToeBoot();
+                Monocle monocle = new Monocle();
 
                 // Initialize SteelToeBoot
                 steelToeBoot.Init(Config);
+
+                monocle.Init(Config);
             }
         }
     }
 }
+
+//make the initializer not a piece of shit 
